@@ -46,6 +46,9 @@
   </div>
       
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
-
+ <div>
+  <img src='https://github-readme-stats.vercel.app/api?username=jonathanebl&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanebl&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8'> 
+</div>
 <h2>𝐶𝑜𝑛𝑡𝑎𝑐𝑡</h2>
     https://127.0.0.1
