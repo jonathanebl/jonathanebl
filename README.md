@@ -51,4 +51,15 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanebl&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8'> 
 </div>
 <h2>𝐶𝑜𝑛𝑡𝑎𝑐𝑡</h2>
-    https://127.0.0.1
+  <div>
+     <a href='https://instagram.com/'>
+      <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'>
+     </a>
+     <a href='https://linkedin.com/'>
+      <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
+     </a>
+     <a href='https://twitter.com/'>
+      <img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'>
+     </a>
+  </div>
+   
