@@ -17,7 +17,7 @@
  
 </p>
 <h2>𝑇𝑜𝑜𝑙𝑠</h2>
-    <h3>Most of the tools I`ve used and learned to used . . .   </h3>
+    <h3>Most of the tools I`ve used and learned to use . . .   </h3>
     <div>
       <img src='https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white'>
       <img src='https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white'>
