@@ -2,9 +2,9 @@
 <img src='https://user-images.githubusercontent.com/116108261/197137315-e2ae7bfb-f1a9-41a6-833e-0636fdc3037b.png'>
 </div>
 
-<h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>`
+<h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
-    <ul>
+ <ul>
         <li>🗓 I`m 16 years old </li>
         <li>👨‍💻 Learning to code since 2019 </li>
         <li>🇩🇪/🇬🇧 Native german speaker with some experience in brithish english 
