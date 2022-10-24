@@ -5,9 +5,10 @@
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
  <ul>
-        <li>🗓 I`m 16 years old </li>
+        <li>🗓 I`m currently 16 years old </li>
         <li>👨‍💻 Learning to code since 2019 </li>
-        <li>🇩🇪/🇬🇧 Native german speaker with some experience in brithish english 
+        <li>🇩🇪/🇬🇧 Native german speaker with some experience in brithish english </li>
+        <li> Outside of all that I pursue my passion of rowing 
     </ul>
     <p align='center'>
                                       “You have power over your mind - not outsid events<br> 
