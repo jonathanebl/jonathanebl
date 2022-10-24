@@ -13,7 +13,7 @@
     <p align='center'>
                                       “You have power over your mind - not outsid events<br> 
                                           Realize this, and you will find strength.” <br>
-                                                  ~Marcus Aurelius, Meditations 
+                                                       ~Marcus Aurelius
  
 </p>
 <h2>𝑇𝑜𝑜𝑙𝑠</h2>
